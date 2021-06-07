@@ -1,6 +1,10 @@
 # CowinOpenFeign
 Simple Prooject For Consuming Cowin API From Open Feign In Spring Boot
 
+Language:- Java
+Framework:- Spring Boot
+Build Tool:-Gradle
+
 #Libraries
 OpenFeign Libbrary is Added in the Graddle
 
